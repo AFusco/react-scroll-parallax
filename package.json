@@ -92,7 +92,7 @@
     }
   ],
   "dependencies": {
-    "parallax-controller": "^1.3.5"
+    "parallax-controller": "https://github.com/afusco/parallax-controller.git"
   },
   "devDependencies": {
     "@babel/core": "^7.17.8",
